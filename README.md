@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @harshilpec17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello World, 
 
-<!---
-harshilpec17/harshilpec17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-HI ! I am harshil, i am very excited to joint cs 50
+I am Harshil, who is excited to learn a new thing. I am newbie, I will make a space a in the world. 
